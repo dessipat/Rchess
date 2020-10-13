@@ -1,2 +1,2 @@
 # Rchess
-Chess GUI for two players coded on R
+Chess GUI personal project for two players, coded on R
